@@ -18,6 +18,20 @@
 
 ## 🛠️ Tech Stack
 
+### 🚀 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="50" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+</p>
+
+### 🐍 Programming Language
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+</p>
 ### **Languages**
 
 ## 📊 GitHub Stats
