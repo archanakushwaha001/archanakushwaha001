@@ -19,26 +19,6 @@
 ## 🛠️ Tech Stack
 
 ### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
-</p>
-
-### **Frameworks & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express" />
-</p>
-
-### **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### **Other Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
